@@ -1,0 +1,301 @@
+﻿id_pedido,data_pedido,id_cliente,id_vendedor,canal_venda,status_pedido
+1001,2026-01-01,82,1,Site,Concluído
+1002,2026-01-01,66,4,Site,Concluído
+1003,2026-01-02,54,9,Marketplace,Concluído
+1004,2026-01-03,35,3,Site,Concluído
+1005,2026-01-04,80,9,Marketplace,Concluído
+1006,2026-01-05,61,7,Marketplace,Concluído
+1007,2026-01-05,41,4,Marketplace,Concluído
+1008,2026-01-06,100,3,Marketplace,Em andamento
+1009,2026-01-07,33,10,Marketplace,Concluído
+1010,2026-01-08,68,5,Site,Concluído
+1011,2026-01-09,33,5,Site,Concluído
+1012,2026-01-09,14,3,WhatsApp,Concluído
+1013,2026-01-10,21,9,Marketplace,Cancelado
+1014,2026-01-11,48,4,Site,Concluído
+1015,2026-01-12,20,5,Site,Concluído
+1016,2026-01-13,8,4,Site,Concluído
+1017,2026-01-13,7,5,WhatsApp,Concluído
+1018,2026-01-14,67,7,Site,Em andamento
+1019,2026-01-15,17,9,Site,Concluído
+1020,2026-01-16,33,7,Site,Em andamento
+1021,2026-01-17,48,5,Site,Concluído
+1022,2026-01-17,76,10,WhatsApp,Concluído
+1023,2026-01-18,59,10,Site,Em andamento
+1024,2026-01-19,86,7,Marketplace,Concluído
+1025,2026-01-20,22,10,Site,Cancelado
+1026,2026-01-21,30,5,Marketplace,Concluído
+1027,2026-01-22,38,3,Site,Concluído
+1028,2026-01-22,51,7,Site,Concluído
+1029,2026-01-23,54,2,Marketplace,Concluído
+1030,2026-01-24,8,9,WhatsApp,Concluído
+1031,2026-01-25,27,10,WhatsApp,Em andamento
+1032,2026-01-26,999,10,Marketplace,Em andamento
+1033,2026-01-26,98,1,WhatsApp,Cancelado
+1034,2026-01-27,21,6,Site,Concluído
+1035,2026-01-28,30,7,WhatsApp,Concluído
+1036,2026-01-29,97,8,Site,Concluído
+1037,2026-01-30,28,10,Marketplace,Concluído
+1038,2026-01-30,64,9,Marketplace,Concluído
+1039,2026-01-31,97,2,Marketplace,Concluído
+1040,2026-02-01,69,10,Site,Concluído
+1041,2026-02-02,61,2,Site,Concluído
+1042,2026-02-03,48,5,Marketplace,Concluído
+1043,2026-02-03,19,5,Site,Concluído
+1044,2026-02-04,4,6,WhatsApp,Concluído
+1045,2026-02-05,35,3,Marketplace,Concluído
+1046,2026-02-06,64,8,Site,Cancelado
+1047,2026-02-07,49,1,Marketplace,Concluído
+1048,2026-02-08,17,6,Site,Concluído
+1049,2026-02-08,44,4,Marketplace,Concluído
+1050,2026-02-09,92,1,Marketplace,Concluído
+1051,2026-02-10,30,7,Site,Cancelado
+1052,2026-02-11,93,9,Site,Concluído
+1053,2026-02-12,46,4,WhatsApp,Concluído
+1054,2026-02-12,6,4,Site,Concluído
+1055,2026-02-13,99,6,Marketplace,Concluído
+1056,2026-02-14,37,3,Site,Cancelado
+1057,2026-02-15,24,6,Site,Concluído
+1058,2026-02-16,93,7,Site,Concluído
+1059,2026-02-16,46,10,Site,Concluído
+1060,2026-02-17,53,10,Site,Concluído
+1061,2026-02-18,95,3,Marketplace,Concluído
+1062,2026-02-19,99,7,Site,Cancelado
+1063,2026-02-20,60,3,Site,Em andamento
+1064,2026-02-20,97,2,Site,Concluído
+1065,2026-02-21,63,10,Site,Concluído
+1066,2026-02-22,85,4,Site,Concluído
+1067,2026-02-23,32,8,Marketplace,Concluído
+1068,2026-02-24,87,9,Marketplace,Concluído
+1069,2026-02-25,33,7,Site,Concluído
+1070,2026-02-25,67,1,WhatsApp,Cancelado
+1071,2026-02-26,18,3,Marketplace,Concluído
+1072,2026-02-27,25,9,Site,Concluído
+1073,2026-02-28,95,1,WhatsApp,Concluído
+1074,2026-03-01,54,9,WhatsApp,Concluído
+1075,2026-03-01,58,8,Site,Concluído
+1076,2026-03-02,67,1,Site,Concluído
+1077,2026-03-03,46,6,WhatsApp,Concluído
+1078,2026-03-04,24,5,Marketplace,Concluído
+1079,2026-03-05,32,6,Site,Concluído
+1080,2026-03-05,47,10,Marketplace,Concluído
+1081,2026-03-06,86,5,Marketplace,Concluído
+1082,2026-03-07,23,6,Marketplace,Concluído
+1083,2026-03-08,66,5,Marketplace,Concluído
+1084,2026-03-09,27,5,Marketplace,Concluído
+1085,2026-03-09,2,4,Site,Concluído
+1086,2026-03-10,90,3,Site,Concluído
+1087,2026-03-11,17,3,Marketplace,Concluído
+1088,2026-03-12,33,4,WhatsApp,
+1089,2026-03-13,9,9,Site,Em andamento
+1090,2026-03-14,43,2,Marketplace,Concluído
+1091,2026-03-14,48,9,Marketplace,Concluído
+1092,2026-03-15,39,1,Site,Concluído
+1093,2026-03-16,93,1,Marketplace,Concluído
+1094,2026-03-17,42,5,WhatsApp,Concluído
+1095,2026-03-18,26,6,Marketplace,Concluído
+1096,2026-03-18,99,6,Site,Concluído
+1097,2026-03-19,50,3,Site,Concluído
+1098,2026-03-20,25,7,Marketplace,Concluído
+1099,2026-03-21,24,9,Site,Concluído
+1100,2026-03-22,13,10,Site,Em andamento
+1101,2026-03-22,60,8,Site,Concluído
+1102,2026-03-23,7,6,Site,Concluído
+1103,2026-03-24,57,8,Site,Cancelado
+1104,2026-03-25,36,5,Site,Concluído
+1105,2026-03-26,45,8,Site,Concluído
+1106,2026-03-26,20,10,Site,Concluído
+1107,2026-03-27,65,4,Marketplace,Em andamento
+1108,2026-03-28,8,10,Marketplace,Concluído
+1109,2026-03-29,16,8,Site,Concluído
+1110,2026-03-30,14,10,WhatsApp,Concluído
+1111,2026-03-31,76,2,Site,Concluído
+1112,2026-03-31,87,5,Marketplace,Concluído
+1113,2026-04-01,15,9,Marketplace,Concluído
+1114,2026-04-02,92,4,WhatsApp,Concluído
+1115,2026-04-03,98,6,Marketplace,Concluído
+1116,2026-04-04,66,1,Marketplace,Concluído
+1117,2026-04-04,32,9,Marketplace,Concluído
+1118,2026-04-05,87,1,Site,Concluído
+1119,2026-04-06,63,5,Site,Concluído
+1120,2026-04-07,86,4,Marketplace,Concluído
+1121,2026-04-08,51,3,Site,Concluído
+1122,2026-04-08,25,6,Marketplace,Concluído
+1123,2026-04-09,58,2,Site,Concluído
+1124,2026-04-10,63,3,Site,Em andamento
+1125,2026-04-11,62,5,Site,Concluído
+1126,2026-04-12,22,9,Site,Concluído
+1127,2026-04-12,58,2,Marketplace,Concluído
+1128,2026-04-13,58,10,Site,Em andamento
+1129,2026-04-14,86,8,Site,Concluído
+1130,2026-04-15,49,2,Site,Concluído
+1131,2026-04-16,52,5,Site,Concluído
+1132,2026-04-17,42,7,Marketplace,Concluído
+1133,2026-04-17,70,8,Site,Cancelado
+1134,2026-04-18,15,1,Marketplace,Concluído
+1135,2026-04-19,54,6,Marketplace,Concluído
+1136,2026-04-20,60,1,Marketplace,Concluído
+1137,2026-04-21,97,2,Marketplace,Cancelado
+1138,2026-04-21,8,1,Marketplace,Em andamento
+1139,2026-04-22,53,5,WhatsApp,Concluído
+1140,2026-04-23,60,10,Site,Em andamento
+1141,2026-04-24,5,9,Site,Cancelado
+1142,2026-04-25,68,6,Site,Concluído
+1143,2026-04-25,6,1,Site,Concluído
+1144,2026-04-26,96,1,Site ,Concluído
+1145,2026-04-27,94,2,WhatsApp,Em andamento
+1146,2026-04-28,47,9,Site,Concluído
+1147,2026-04-29,99,3,Site,Em andamento
+1148,2026-04-29,55,1,Site,Concluído
+1149,2026-04-30,40,5,Marketplace,Concluído
+1150,2026-05-01,52,7,Marketplace,Concluído
+1151,2026-05-02,16,6,Site,Concluído
+1152,2026-05-03,13,1,WhatsApp,Cancelado
+1153,2026-05-04,30,5,Marketplace,Em andamento
+1154,2026-05-04,19,5,Site,Concluído
+1155,2026-05-05,17,6,Marketplace,Concluído
+1156,2026-05-06,63,3,Marketplace,Concluído
+1157,2026-05-07,19,5,Site,Concluído
+1158,2026-05-08,92,7,Site,Concluído
+1159,2026-05-08,58,5,Site,Concluído
+1160,2026-05-09,55,5,Site,Concluído
+1161,2026-05-10,90,5,Marketplace,Concluído
+1162,2026-05-11,90,10,WhatsApp,Concluído
+1163,2026-05-12,62,10,Site,Cancelado
+1164,2026-05-12,23,3,Site,Em andamento
+1165,2026-05-13,9,1,Site,Concluído
+1166,2026-05-14,12,5,Site,Concluído
+1167,2026-05-15,1,9,Marketplace,Concluído
+1168,2026-05-16,58,1,Site,Concluído
+1169,2026-05-16,1,3,Site,Em andamento
+1170,2026-05-17,34,4,Site,Em andamento
+1171,2026-05-18,96,1,Marketplace,Concluído
+1172,2026-05-19,48,1,Site,Concluído
+1173,2026-05-20,89,8,Marketplace,Concluído
+1174,2026-05-21,1,2,Site,Concluído
+1175,2026-05-21,16,8,Marketplace,Concluído
+1176,2026-05-22,61,7,Marketplace,Em andamento
+1177,2026-05-23,64,10,Site,Concluído
+1178,2026-05-24,63,10,Site,Concluído
+1179,2026-05-25,69,2,WhatsApp,Em andamento
+1180,2026-05-25,22,6,WhatsApp,Concluído
+1181,2026-05-26,93,6,Site,Concluído
+1182,2026-05-27,67,3,Site,Concluído
+1183,2026-05-28,76,2,WhatsApp,Concluído
+1184,2026-05-29,26,1,Marketplace,Concluído
+1185,2026-05-29,16,6,Site,Concluído
+1186,2026-05-30,51,5,WhatsApp,Concluído
+1187,2026-05-31,86,9,Site,Cancelado
+1188,2026-06-01,57,1,Marketplace,Concluído
+1189,2026-06-02,29,7,Site,Em andamento
+1190,2026-06-02,78,5,Site,Cancelado
+1191,2026-06-03,92,5,Site,Concluído
+1192,2026-06-04,69,2,Marketplace,Em andamento
+1193,2026-06-05,47,3,Site,Concluído
+1194,2026-06-06,94,7,Site,Em andamento
+1195,2026-06-07,62,6,Site,Concluído
+1196,2026-06-07,69,2,Site,Concluído
+1197,2026-06-08,76,6,WhatsApp,Concluído
+1198,2026-06-09,16,2,Site,Em andamento
+1199,2026-06-10,90,2,Marketplace,Concluído
+1200,2026-06-11,90,2,WhatsApp,Concluído
+1201,2026-06-11,48,3,Site,Em andamento
+1202,2026-06-12,85,2,Site,Concluído
+1203,2026-06-13,39,4,Site,Concluído
+1204,2026-06-14,100,9,Site,Concluído
+1205,2026-06-15,33,6,Site,Concluído
+1206,2026-06-15,94,1,Site,Concluído
+1207,2026-06-16,23,8,Marketplace,Em andamento
+1208,2026-06-17,10,7,Site,Concluído
+1209,2026-06-18,69,10,Site,Concluído
+1210,2026-06-19,100,3,Marketplace,Concluído
+1211,2026-06-19,34,1,Site,Em andamento
+1212,2026-06-20,52,5,Marketplace,Cancelado
+1213,2026-06-21,95,4,Marketplace,Concluído
+1214,2026-06-22,10,10,Site,Em andamento
+1215,2026-06-23,19,8,Marketplace,Concluído
+1216,2026-06-24,58,1,Site,Concluído
+1217,2026-06-24,96,10,Site,Concluído
+1218,2026-06-25,1,1,Site,Em andamento
+1219,2026-06-26,69,4,Site,Concluído
+1220,2026-06-27,4,8,Marketplace,Concluído
+1221,2026-06-28,16,5,Site,Concluído
+1222,2026-06-28,24,2,Site,Concluído
+1223,2026-06-29,80,6,Site,Concluído
+1224,2026-06-30,2,5,Marketplace,Concluído
+1225,2026-07-01,92,2,Site,Concluído
+1226,2026-07-02,32,3,WhatsApp,Concluído
+1227,2026-07-02,91,9,Site,Concluído
+1228,2026-07-03,84,7,Marketplace,Concluído
+1229,2026-07-04,24,7,WhatsApp,Concluído
+1230,2026-07-05,12,6,Marketplace,Concluído
+1231,2026-07-06,50,8,WhatsApp,Concluído
+1232,2026-07-06,35,4,Site,Concluído
+1233,2026-07-07,33,8,Marketplace,Concluído
+1234,2026-07-08,33,4,Site,Concluído
+1235,2026-07-09,61,8,Site,Em andamento
+1236,2026-07-10,51,9,Site,Concluído
+1237,2026-07-11,43,3,Marketplace,Concluído
+1238,2026-07-11,12,3,Site,Concluído
+1239,2026-07-12,67,2,Marketplace,Concluído
+1240,2026-07-13,65,10,WhatsApp,Concluído
+1241,2026-07-14,33,3,Marketplace,Concluído
+1242,2026-07-15,40,3,Marketplace,Em andamento
+1243,2026-07-15,74,5,Marketplace,Concluído
+1244,2026-07-16,43,5,WhatsApp,Concluído
+1245,2026-07-17,44,2,Marketplace,Concluído
+1246,2026-07-18,29,10,Marketplace,Concluído
+1247,2026-07-19,13,6,WhatsApp,Concluído
+1248,2026-07-19,12,5,WhatsApp,Concluído
+1249,2026-07-20,95,6,Site,Em andamento
+1250,2026-07-21,46,1,Site,Cancelado
+1251,2026-07-22,2,5,Site,Concluído
+1252,2026-07-23,35,9,Site,Concluído
+1253,2026-07-23,87,10,Marketplace,Concluído
+1254,2026-07-24,81,2,Marketplace,Concluído
+1255,2026-07-25,90,1,Marketplace,Concluído
+1256,2026-07-26,8,10,Site,Concluído
+1257,2026-07-27,93,9,WhatsApp,Em andamento
+1258,2026-07-28,26,10,Marketplace,Concluído
+1259,2026-07-28,74,9,Marketplace,Concluído
+1260,2026-07-29,90,9,WhatsApp,Concluído
+1261,2026-07-30,34,6,Marketplace,Concluído
+1262,2026-07-31,7,8,Site,Concluído
+1263,2026-08-01,68,1,Marketplace,Concluído
+1264,2026-08-01,58,10,Site,Em andamento
+1265,2026-08-02,75,4,Site,Concluído
+1266,2026-08-03,29,1,Marketplace,Em andamento
+1267,2026-08-04,36,8,Site,Concluído
+1268,2026-08-05,89,1,Marketplace,Em andamento
+1269,2026-08-05,21,3,Site,Concluído
+1270,2026-08-06,36,4,WhatsApp,Em andamento
+1271,2026-08-07,10,8,Site,Concluído
+1272,2026-08-08,73,6,WhatsApp,Concluído
+1273,2026-08-09,24,10,Marketplace,Concluído
+1274,2026-08-09,64,7,Site,Em andamento
+1275,2026-08-10,99,8,Marketplace,Cancelado
+1276,2026-08-11,49,2,WhatsApp,Concluído
+1277,2026-08-12,99,10,Site,Concluído
+1278,2026-08-13,36,8,Site,Em andamento
+1279,2026-08-14,82,3,Site,Em andamento
+1280,2026-08-14,96,7,Site,Cancelado
+1281,2026-08-15,24,3,Marketplace,Concluído
+1282,2026-08-16,23,7,Marketplace,Concluído
+1283,2026-08-17,62,2,Site,Concluído
+1284,2026-08-18,96,10,Site,Concluído
+1285,2026-08-18,37,6,Marketplace,Concluído
+1286,2026-08-19,12,3,Site,Concluído
+1287,2026-08-20,55,3,Site,Concluído
+1288,2026-08-21,13,9,WhatsApp,Em andamento
+1289,2026-08-22,23,7,Marketplace,Concluído
+1290,2026-08-22,89,5,Marketplace,Concluído
+1291,2026-08-23,99,10,Marketplace,Concluído
+1292,2026-08-24,30,7,Site,Concluído
+1293,2026-08-25,17,9,Marketplace,Concluído
+1294,2026-08-26,62,1,Site,Concluído
+1295,2026-08-26,84,7,Site,Concluído
+1296,2026-08-27,89,6,Site,Concluído
+1297,2026-08-28,86,10,Site,Concluído
+1298,2026-08-29,13,9,Marketplace,Concluído
+1299,2026-08-30,59,1,Site,Concluído
+1300,2026-08-31,19,4,Site,Concluído

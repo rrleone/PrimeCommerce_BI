@@ -1,0 +1,101 @@
+﻿id_cliente,nome_cliente,cidade,estado,data_cadastro
+1,Cliente 001,Sorocaba,SP,2025-01-01
+2,Cliente 002,Jundiaí,SP,2025-01-08
+3,Cliente 003,Santos,SP,2025-01-15
+4,Cliente 004,Jundiaí,SP,2025-01-22
+5,Cliente 005,Jundiaí,SP,2025-01-29
+6,Cliente 006,Campinas,SP,2025-02-05
+7,Cliente 007,Santos,SP,2025-02-12
+8,Cliente 008,Santos,SP,2025-02-19
+9,Cliente 009,Santos,SP,2025-02-26
+10,Cliente 010,Jundiaí,SP,2025-03-05
+11,Cliente 011,Sorocaba,SP,2025-03-12
+12,Cliente 012,Santos,SP,2025-03-19
+13,Cliente 013,Jundiaí,SP,2025-03-26
+14,Cliente 014,Campinas,SP,2025-04-02
+15,Cliente 015,,SP,2025-04-09
+16,Cliente 016,Campinas,SP,2025-04-16
+17,Cliente 017,Sorocaba,SP,2025-04-23
+18,Cliente 018,Jundiaí,SP,2025-04-30
+19,Cliente 019,São Paulo,SP,2025-05-07
+20,Cliente 020,Sorocaba,SP,2025-05-14
+21,Cliente 021,Campinas,SP,2025-05-21
+22,Cliente 022,Jundiaí,SP,2025-05-28
+23,Cliente 023,Sorocaba,SP,2025-06-04
+24,Cliente 024,São Paulo,SP,2025-06-11
+25,Cliente 025,São Paulo,SP,2025-06-18
+26,Cliente 026,Santos,SP,2025-06-25
+27,Cliente 027,Santos,SP,2025-07-02
+28,Cliente 028,Campinas,SP,2025-07-09
+29,Cliente 029,Sorocaba,SP,2025-07-16
+30,Cliente 030,Sorocaba,SP,2025-07-23
+31,Cliente 031,Santos,SP,2025-07-30
+32,Cliente 032,Sorocaba,SP,2025-08-06
+33,Cliente 033,Sorocaba,SP,2025-08-13
+34,Cliente 034,São Paulo,SP,2025-08-20
+35,Cliente 035,Santos,SP,2025-08-27
+36,Cliente 036,Jundiaí,SP,2025-09-03
+37,Cliente 037,Santos,SP,2025-09-10
+38,Cliente 038,Jundiaí,SP,2025-09-17
+39,Cliente 039,São Paulo,SP,2025-09-24
+40,Cliente 040,Campinas,SP,2025-10-01
+41,Cliente 041,Sorocaba,SP,2025-10-08
+42,Cliente 042,São Paulo,SP,2025-10-15
+43,Cliente 043,Sorocaba,SP,2025-10-22
+44,Cliente 044,Campinas,SP,2025-10-29
+45,Cliente 045,Campinas,SP,2025-11-05
+46,Cliente 046,São Paulo,SP,2025-11-12
+47,Cliente 047,Campinas,SP,2025-11-19
+48,Cliente 048,Jundiaí,SP,2025-11-26
+49,Cliente 049,Campinas,SP,2025-12-03
+50,Cliente 050  ,Sorocaba,SP,2025-12-10
+51,Cliente 051,Sorocaba,SP,2025-12-17
+52,Cliente 052,Sorocaba,SP,2025-12-24
+53,Cliente 053,Sorocaba,SP,2025-12-31
+54,Cliente 054,Jundiaí,SP,2026-01-07
+55,Cliente 055,Santos,SP,2026-01-14
+56,Cliente 056,São Paulo,SP,2026-01-21
+57,Cliente 057,Sorocaba,SP,2026-01-28
+58,Cliente 058,Campinas,SP,2026-02-04
+59,Cliente 059,Sorocaba,SP,2026-02-11
+60,Cliente 060,Campinas,SP,2026-02-18
+61,Cliente 061,Campinas,SP,2026-02-25
+62,Cliente 062,Sorocaba,SP,2026-03-04
+63,Cliente 063,Jundiaí,SP,2026-03-11
+64,Cliente 064,Campinas,SP,2026-03-18
+65,Cliente 065,Campinas,SP,2026-03-25
+66,Cliente 066,Sorocaba,SP,2026-04-01
+67,Cliente 067,Campinas,SP,2026-04-08
+68,Cliente 068,Campinas,SP,2026-04-15
+69,Cliente 069,Sorocaba,SP,2026-04-22
+70,Cliente 070,Sorocaba,SP,2026-04-29
+71,Cliente 071,São Paulo,SP,2026-05-06
+72,Cliente 072,Jundiaí,SP,2026-05-13
+73,Cliente 073,Jundiaí,SP,2026-05-20
+74,Cliente 074,Campinas,SP,2026-05-27
+75,Cliente 075,Jundiaí,SP,2026-06-03
+76,Cliente 076,Campinas,SP,2026-06-10
+77,Cliente 077,São Paulo,SP,2026-06-17
+78,Cliente 078,Sorocaba,SP,2026-06-24
+79,Cliente 079,Sorocaba,SP,2026-07-01
+80,Cliente 080,Sorocaba,SP,2026-07-08
+81,Cliente 081,Jundiaí,SP,2026-07-15
+82,Cliente 082,São Paulo,SP,2026-07-22
+83,Cliente 083,Jundiaí,SP,2026-07-29
+84,Cliente 084,Jundiaí,SP,2026-08-05
+85,Cliente 085,São Paulo,SP,2026-08-12
+86,Cliente 086,São Paulo,SP,2026-08-19
+87,Cliente 087,São Paulo,SP,2026-08-26
+88,Cliente 088,São Paulo,SP,2026-09-02
+89,Cliente 089,Sorocaba,SP,2026-09-09
+90,Cliente 090,Santos,SP,2026-09-16
+91,Cliente 091,Santos,SP,2026-09-23
+92,Cliente 092,São Paulo,SP,2026-09-30
+93,Cliente 093,Santos,SP,2026-10-07
+94,Cliente 094,Santos,SP,2026-10-14
+95,Cliente 095,São Paulo,SP,2026-10-21
+96,Cliente 096,Santos,SP,2026-10-28
+97,Cliente 097,Jundiaí,SP,2026-11-04
+98,Cliente 098,Campinas,SP,2026-11-11
+99,Cliente 099,Campinas,SP,2026-11-18
+100,Cliente 100,São Paulo,SP,2026-11-25

@@ -1,0 +1,301 @@
+﻿id_entrega,id_pedido,transportadora,status_entrega,data_prevista
+8001,1001,Rápido Express,Entregue,2026-01-07
+8002,1002,Rápido Express,Entregue,2026-01-06
+8003,1003,Brasil Entregas,Entregue,2026-01-05
+8004,1004,Brasil Entregas,Entregue,2026-01-08
+8005,1005,Brasil Entregas,Entregue,2026-01-12
+8006,1006,Brasil Entregas,Entregue,2026-01-07
+8007,1007,SulLog,Entregue,2026-01-07
+8008,1008,Brasil Entregas,Entregue,2026-01-12
+8009,1009,Rápido Express,Entregue,2026-01-11
+8010,1010,SulLog,Entregue,2026-01-15
+8011,1011,SulLog,Entregue,2026-01-16
+8012,1012,Rápido Express,Em trânsito,2026-01-16
+8013,1013,SulLog,Entregue,2026-01-12
+8014,1014,Rápido Express,Entregue,2026-01-14
+8015,1015,SulLog,Em trânsito,2026-01-18
+8016,1016,SulLog,Entregue,2026-01-17
+8017,1017,Rápido Express,Entregue,2026-01-21
+8018,1018,Rápido Express,Entregue,2026-01-21
+8019,1019,Rápido Express,Entregue,2026-01-21
+8020,1020,Rápido Express,Aguardando,2026-01-18
+8021,1021,Brasil Entregas,Em trânsito,2026-01-24
+8022,1022,Brasil Entregas,Entregue,2026-01-21
+8023,1023,Rápido Express,Aguardando,2026-01-26
+8024,1024,Brasil Entregas,Entregue,2026-01-24
+8025,1025,Rápido Express,Entregue,2026-01-28
+8026,1026,Rápido Express,Em trânsito,2026-01-25
+8027,1027,SulLog,Entregue,2026-01-30
+8028,1028,Rápido Express,Entregue,2026-01-25
+8029,1029,Rápido Express,Entregue,2026-01-30
+8030,1030,Rápido Express,Entregue,2026-01-31
+8031,1031,Rápido Express,Entregue,2026-01-30
+8032,1032,SulLog,Entregue,2026-02-03
+8033,1033,Rápido Express,Entregue,2026-01-31
+8034,1034,SulLog,Entregue,2026-02-04
+8035,1035,Rápido Express,Em trânsito,2026-02-04
+8036,1036,SulLog,Em trânsito,2026-02-01
+8037,1037,Brasil Entregas,Entregue,2026-02-07
+8038,1038,SulLog,Aguardando,2026-02-04
+8039,1039,SulLog,Entregue,2026-02-02
+8040,1040,Rápido Express,Entregue,2026-02-08
+8041,1041,SulLog,Entregue,2026-02-06
+8042,1042,SulLog,Entregue,2026-02-07
+8043,1043,Rápido Express,Entregue,2026-02-06
+8044,1044,Brasil Entregas,Entregue,2026-02-06
+8045,1045,Brasil Entregas,,2026-02-10
+8046,1046,Brasil Entregas,Entregue,2026-02-14
+8047,1047,SulLog,Em trânsito,2026-02-14
+8048,1048,Rápido Express,Entregue,2026-02-12
+8049,1049,Brasil Entregas,Em trânsito,2026-02-12
+8050,1050,Brasil Entregas,Aguardando,2026-02-13
+8051,1051,Brasil Entregas,Entregue,2026-02-14
+8052,1052,Brasil Entregas,Entregue,2026-02-17
+8053,1053,Rápido Express,Entregue,2026-02-15
+8054,1054,Brasil Entregas,Em trânsito,2026-02-17
+8055,1055,SulLog,Entregue,2026-02-20
+8056,1056,SulLog,Entregue,2026-02-21
+8057,1057,Rápido Express,Entregue,2026-02-22
+8058,1058,Brasil Entregas,Entregue,2026-02-21
+8059,1059,Brasil Entregas,Aguardando,2026-02-19
+8060,1060,SulLog,Entregue,2026-02-19
+8061,1061,Rápido Express,Em trânsito,2026-02-26
+8062,1062,SulLog,Entregue,2026-02-27
+8063,1063,Rápido Express,Entregue,2026-02-23
+8064,1064,Rápido Express,Aguardando,2026-02-24
+8065,1065,Rápido Express,Entregue,2026-03-01
+8066,1066,SulLog,Aguardando,2026-02-26
+8067,1067,Rápido Express,Entregue,2026-02-26
+8068,1068,SulLog,Entregue,2026-02-27
+8069,1069,SulLog,Entregue,2026-03-02
+8070,1070,Brasil Entregas,Aguardando,2026-03-02
+8071,1071,SulLog,Aguardando,2026-03-04
+8072,1072,SulLog,Entregue,2026-03-06
+8073,1073,Brasil Entregas,Entregue,2026-03-06
+8074,1074,Brasil Entregas,Entregue,2026-03-08
+8075,1075,Brasil Entregas,Entregue,2026-03-05
+8076,1076,Rápido Express,Entregue,2026-03-08
+8077,1077,Rápido Express,Entregue,2026-03-09
+8078,1078,Brasil Entregas,Aguardando,2026-03-06
+8079,1079,Rápido Express,Entregue,2026-03-08
+8080,1080,Brasil Entregas,Em trânsito,2026-03-10
+8081,1081,Rápido Express,Entregue,2026-03-12
+8082,1082,SulLog,Entregue,2026-03-12
+8083,1083,Rápido Express,Aguardando,2026-03-15
+8084,1084,Rápido Express,Entregue,2026-03-15
+8085,1085,SulLog,Em trânsito,2026-03-16
+8086,1086,Brasil Entregas,Aguardando,2026-03-16
+8087,1087,Rápido Express,Entregue,2026-03-19
+8088,1088,Rápido Express,Entregue,2026-03-16
+8089,1089,SulLog,Entregue,2026-03-15
+8090,1090,SulLog,Entregue,2026-03-21
+8091,1091,SulLog,Entregue,2026-03-17
+8092,1092,SulLog,Entregue,2026-03-18
+8093,1093,Brasil Entregas,Entregue,2026-03-20
+8094,1094,Rápido Express,Entregue,2026-03-21
+8095,1095,Rápido Express,Entregue,2026-03-26
+8096,1096,Rápido Express,Entregue,2026-03-21
+8097,1097,Rápido Express,Entregue,2026-03-26
+8098,1098,Brasil Entregas,Entregue,2026-03-23
+8099,1099,Rápido Express,Entregue,2026-03-23
+8100,1100,Brasil Entregas,Entregue,2026-03-28
+8101,1101,Brasil Entregas,Entregue,2026-03-24
+8102,1102,SulLog,Entregue,2026-03-31
+8103,1103,SulLog,Em trânsito,2026-04-01
+8104,1104,Rápido Express,Entregue,2026-03-28
+8105,1105,Brasil Entregas,Entregue,2026-04-01
+8106,1106,SulLog,Aguardando,2026-03-29
+8107,1107,Brasil Entregas,Em trânsito,2026-03-29
+8108,1108,SulLog,Entregue,2026-03-30
+8109,1109,Brasil Entregas,Entregue,2026-04-05
+8110,1110,Rápido Express,Entregue,2026-04-06
+8111,1111,Rápido Express,Entregue,2026-04-02
+8112,1112,Brasil Entregas,Aguardando,2026-04-06
+8113,1113,SulLog,Entregue,2026-04-09
+8114,1114,SulLog,Em trânsito,2026-04-09
+8115,1115,Rápido Express,Entregue,2026-04-10
+8116,1116,Rápido Express,Aguardando,2026-04-09
+8117,1117,Rápido Express,Entregue,2026-04-09
+8118,1118,SulLog,Entregue,2026-04-12
+8119,1119,SulLog,Entregue,2026-04-09
+8120,1120,Rápido Express,Entregue,2026-04-13
+8121,1121,Brasil Entregas,Entregue,2026-04-12
+8122,1122,SulLog,Em trânsito,2026-04-15
+8123,1123,Rápido Express,Entregue,2026-04-14
+8124,1124,Brasil Entregas,Em trânsito,2026-04-16
+8125,1125,SulLog,Entregue,2026-04-17
+8126,1126,Brasil Entregas,Entregue,2026-04-17
+8127,1127,Brasil Entregas,Aguardando,2026-04-18
+8128,1128,SulLog,Entregue,2026-04-19
+8129,1129,Rápido Express,Entregue,2026-04-19
+8130,1130,Brasil Entregas,Entregue,2026-04-17
+8131,1131,Rápido Express,Entregue,2026-04-23
+8132,1132,SulLog,Em trânsito,2026-04-20
+8133,1133,Brasil Entregas,Entregue,2026-04-21
+8134,1134,Brasil Entregas,Entregue,2026-04-21
+8135,1135,Brasil Entregas,Em trânsito,2026-04-21
+8136,1136,Brasil Entregas,Entregue,2026-04-28
+8137,1137,Brasil Entregas,Entregue,2026-04-23
+8138,1138,SulLog,Aguardando,2026-04-27
+8139,1139,Brasil Entregas,Entregue,2026-04-25
+8140,1140,SulLog,Em trânsito,2026-04-25
+8141,1141,Rápido Express,Entregue,2026-04-27
+8142,1142,SulLog,Em trânsito,2026-04-27
+8143,1143,Brasil Entregas,Aguardando,2026-04-29
+8144,1144,Rápido Express,Entregue,2026-04-28
+8145,1145,SulLog,Entregue,2026-04-30
+8146,1146,SulLog,Entregue,2026-05-04
+8147,1147,SulLog,Entregue,2026-05-02
+8148,1148,Brasil Entregas,Entregue,2026-05-04
+8149,1149,Brasil Entregas,Entregue,2026-05-03
+8150,1150,SulLog,Entregue,2026-05-05
+8151,1151,SulLog,Aguardando,2026-05-09
+8152,1152,Rápido Express,Entregue,2026-05-07
+8153,1153,Brasil Entregas,Entregue,2026-05-08
+8154,1154,Brasil Entregas,Entregue,2026-05-06
+8155,1155,Rápido Express,Entregue,2026-05-09
+8156,1156,SulLog,Entregue,2026-05-09
+8157,1157,SulLog,Entregue,2026-05-14
+8158,1158,Rápido Express,Em trânsito,2026-05-16
+8159,1159,SulLog,Aguardando,2026-05-14
+8160,1160,SulLog,Entregue,2026-05-17
+8161,1161,Rápido Express,Entregue,2026-05-14
+8162,1162,Rápido Express,Entregue,2026-05-14
+8163,1163,Rápido Express,Entregue,2026-05-14
+8164,1164,SulLog,Entregue,2026-05-14
+8165,1165,Rápido Express,Entregue,2026-05-19
+8166,1166,SulLog,Entregue,2026-05-20
+8167,1167,Brasil Entregas,Entregue,2026-05-18
+8168,1168,Brasil Entregas,Entregue,2026-05-22
+8169,1169,Rápido Express,Entregue,2026-05-22
+8170,1170,SulLog,Entregue,2026-05-19
+8171,1171,SulLog,Em trânsito,2026-05-21
+8172,1172,SulLog,Aguardando,2026-05-26
+8173,1173,Rápido Express,Entregue,2026-05-26
+8174,1174,SulLog,Entregue,2026-05-24
+8175,1175,SulLog,Entregue,2026-05-25
+8176,1176,SulLog,Entregue,2026-05-24
+8177,1177,Brasil Entregas,Entregue,2026-05-30
+8178,1178,SulLog,Entregue,2026-05-26
+8179,1179,Brasil Entregas,Entregue,2026-05-27
+8180,1180,SulLog,Entregue,2026-05-30
+8181,1181,SulLog,Entregue,2026-05-29
+8182,1182,SulLog,Aguardando,2026-05-31
+8183,1183,Brasil Entregas,Entregue,2026-06-03
+8184,1184,SulLog,Entregue,2026-06-02
+8185,1185,Rápido Express,Entregue,2026-06-01
+8186,1186,SulLog,Entregue,2026-06-01
+8187,1187,Brasil Entregas,Entregue,2026-06-05
+8188,1188,Brasil Entregas,Entregue,2026-06-04
+8189,1189,Rápido Express,Entregue,2026-06-09
+8190,1190,Rápido Express,Entregue,2026-06-09
+8191,1191,Rápido Express,Entregue,2026-06-06
+8192,1192,Brasil Entregas,Entregue,2026-06-10
+8193,1193,SulLog,Entregue,2026-06-09
+8194,1194,SulLog,Entregue,2026-06-10
+8195,1195,Rápido Express,Entregue,2026-06-13
+8196,1196,Rápido Express,Entregue,2026-06-12
+8197,1197,SulLog,Entregue,2026-06-10
+8198,1198,Rápido Express,Entregue,2026-06-17
+8199,1199,SulLog,Aguardando,2026-06-18
+8200,1200,SulLog,Aguardando,2026-06-13
+8201,1201,SulLog,Entregue,2026-06-18
+8202,1202,SulLog,Em trânsito,2026-06-17
+8203,1203,Brasil Entregas,Entregue,2026-06-19
+8204,1204,SulLog,Aguardando,2026-06-22
+8205,1205,Rápido Express,Entregue,2026-06-18
+8206,1206,Rápido Express,Entregue,2026-06-19
+8207,1207,Rápido Express,Entregue,2026-06-19
+8208,1208,Rápido Express,Entregue,2026-06-21
+8209,1209,Brasil Entregas,Entregue,2026-06-21
+8210,1210,SulLog,Aguardando,2026-06-25
+8211,1211,SulLog,Entregue,2026-06-25
+8212,1212,Rápido Express,Entregue,2025-12-01
+8213,1213,Rápido Express,Entregue,2026-06-24
+8214,1214,Rápido Express,Entregue,2026-06-25
+8215,1215,SulLog,Entregue,2026-06-28
+8216,1216,Brasil Entregas,Entregue,2026-06-29
+8217,1217,Brasil Entregas,Entregue,2026-06-30
+8218,1218,Brasil Entregas,Entregue,2026-07-01
+8219,1219,Brasil Entregas,Entregue,2026-07-03
+8220,1220,Rápido Express,Entregue,2026-06-30
+8221,1221,SulLog,Entregue,2026-07-04
+8222,1222,Rápido Express,Em trânsito,2026-07-06
+8223,1223,Brasil Entregas,Entregue,2026-07-05
+8224,1224,Rápido Express,Entregue,2026-07-03
+8225,1225,Brasil Entregas,Entregue,2026-07-06
+8226,1226,SulLog,Entregue,2026-07-05
+8227,1227,Brasil Entregas,Entregue,2026-07-10
+8228,1228,Rápido Express,Entregue,2026-07-05
+8229,1229,SulLog,Entregue,2026-07-07
+8230,1230,Brasil Entregas,Entregue,2026-07-07
+8231,1231,Brasil Entregas,Entregue,2026-07-09
+8232,1232,SulLog,Entregue,2026-07-14
+8233,1233,Rápido Express,Entregue,2026-07-09
+8234,1234,SulLog,Entregue,2026-07-10
+8235,1235,Rápido Express,Entregue,2026-07-17
+8236,1236,Brasil Entregas,Entregue,2026-07-13
+8237,1237,Brasil Entregas,Em trânsito,2026-07-18
+8238,1238,SulLog,Entregue,2026-07-17
+8239,1239,Brasil Entregas,Entregue,2026-07-16
+8240,1240,SulLog,Entregue,2026-07-19
+8241,1241,Brasil Entregas,Entregue,2026-07-16
+8242,1242,Brasil Entregas,Entregue,2026-07-18
+8243,1243,Rápido Express,Entregue,2026-07-18
+8244,1244,SulLog,Entregue,2026-07-19
+8245,1245,SulLog,Entregue,2026-07-20
+8246,1246,Brasil Entregas,Entregue,2026-07-25
+8247,1247,Rápido Express,Entregue,2026-07-23
+8248,1248,Rápido Express,Entregue,2026-07-24
+8249,1249,SulLog,Em trânsito,2026-07-22
+8250,1250,SulLog,Entregue,2026-07-25
+8251,1251,Brasil Entregas,Aguardando,2026-07-28
+8252,1252,SulLog,Aguardando,2026-07-28
+8253,1253,Brasil Entregas,Aguardando,2026-07-28
+8254,1254,Rápido Express,Em trânsito,2026-07-27
+8255,1255,SulLog,Entregue,2026-07-29
+8256,1256,Rápido Express,Entregue,2026-08-01
+8257,1257,Rápido Express,Entregue,2026-07-30
+8258,1258,Brasil Entregas,Entregue,2026-07-31
+8259,1259,Rápido Express,Em trânsito,2026-08-05
+8260,1260,Brasil Entregas,Aguardando,2026-08-06
+8261,1261,Brasil Entregas,Entregue,2026-08-07
+8262,1262,Rápido Express,Entregue,2026-08-07
+8263,1263,Rápido Express,Entregue,2026-08-03
+8264,1264,Brasil Entregas,Entregue,2026-08-06
+8265,1265,Brasil Entregas,Entregue,2026-08-08
+8266,1266,Rápido Express,Entregue,2026-08-08
+8267,1267,Brasil Entregas,Em trânsito,2026-08-08
+8268,1268,Brasil Entregas,Entregue,2026-08-07
+8269,1269,SulLog,Em trânsito,2026-08-08
+8270,1270,SulLog,Entregue,2026-08-08
+8271,1271,SulLog,Em trânsito,2026-08-10
+8272,1272,SulLog,Entregue,2026-08-16
+8273,1273,SulLog,Em trânsito,2026-08-11
+8274,1274,Brasil Entregas,Entregue,2026-08-12
+8275,1275,Brasil Entregas,Entregue,2026-08-15
+8276,1276,SulLog,Entregue,2026-08-19
+8277,1277,Rápido Express,Em trânsito,2026-08-20
+8278,1278,SulLog,Entregue,2026-08-21
+8279,1279,Rápido Express,Entregue,2026-08-19
+8280,1280,Brasil Entregas,Entregue,2026-08-19
+8281,1281,Rápido Express,Entregue,2026-08-20
+8282,1282,Brasil Entregas,Em trânsito,2026-08-24
+8283,1283,Rápido Express,Entregue,2026-08-19
+8284,1284,Brasil Entregas,Entregue,2026-08-21
+8285,1285,Brasil Entregas,Aguardando,2026-08-23
+8286,1286,SulLog,Em trânsito,2026-08-21
+8287,1287,Brasil Entregas,Em trânsito,2026-08-23
+8288,1288,SulLog,Entregue,2026-08-29
+8289,1289,SulLog,Entregue,2026-08-24
+8290,1290,SulLog,Entregue,2026-08-30
+8291,1291,Rápido Express,Entregue,2026-08-30
+8292,1292,Rápido Express,Entregue,2026-08-29
+8293,1293,Brasil Entregas,Entregue,2026-08-29
+8294,1294,SulLog,Entregue,2026-08-28
+8295,1295,SulLog,Entregue,2026-08-31
+8296,1296,Brasil Entregas,Em trânsito,2026-09-02
+8297,1297,SulLog,Entregue,2026-08-31
+8298,1298,Brasil Entregas,Entregue,2026-09-05
+8299,1299,SulLog,Aguardando,2026-09-04
+8300,1300,Rápido Express,Entregue,2026-09-06
