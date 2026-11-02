@@ -17,7 +17,7 @@
 
 ## 🖼️ Visão geral do projeto
 
-![PrimeCommerce BI — Capa do Projeto](05_Images/Capa_PrimeCommerce%20BI.png)
+![PrimeCommerce BI](03_Images/Capa_PrimeCommerce%20BI.png)
 
 O **PrimeCommerce BI** é um projeto de Business Intelligence voltado à análise comercial de um e-commerce fictício.
 
@@ -91,7 +91,7 @@ Painel executivo para acompanhamento dos principais indicadores e do desempenho 
 - Faturamento por Vendedor
 - Faturamento por Canal de Venda
 
-![PrimeCommerce BI — Visão Geral Comercial](05_Images/dashboard_visao_geral.png)
+![Dashboard Visão Geral](03_Images/dashboard_visao_geral.png)
 
 ### 02 — Análise de Vendas
 
@@ -106,7 +106,7 @@ Página dedicada à evolução temporal dos indicadores e à comparação do des
 - Faturamento por Canal de Venda
 - Ticket Médio por Canal de Venda
 
-![PrimeCommerce BI — Análise de Vendas](05_Images/dashboard_analise_vendas.png)
+![Dashboard Análise de Vendas](03_Images/dashboard_analise_vendas.png)
 
 ### 03 — Clientes e Canais
 
@@ -125,7 +125,7 @@ Análise do comportamento dos clientes, da recorrência de compras, da distribui
 - Clientes Únicos por Cidade
 - Participação dos cinco principais clientes no faturamento
 
-![PrimeCommerce BI — Clientes e Canais](05_Images/dashboard_clientes_canais.png)
+![Dashboard Clientes e Canais](03_Images/dashboard_clientes_canais.png)
 
 ---
 
