@@ -1,4 +1,3 @@
-# PrimeCommerce BI
 
 <div align="center">
 
