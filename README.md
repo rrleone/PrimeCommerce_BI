@@ -1,12 +1,13 @@
  
 <div align="center">
 
-# 📊 PrimeCommerce BI
+# PrimeCommerce BI
+
 ### Análise Comercial e Dashboard de Vendas
 
 **Projeto de Business Intelligence desenvolvido por Renato Leone**
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge)](https://powerbi.microsoft.com/)
 [![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346?style=for-the-badge)](https://learn.microsoft.com/power-query/)
 [![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-0078D4?style=for-the-badge)](https://learn.microsoft.com/dax/)
 [![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-0F766E?style=for-the-badge)](https://)
@@ -15,7 +16,7 @@
 
 ---
 
-## 🖼️ Visão geral do projeto
+## Visão geral do projeto
 
 ![PrimeCommerce BI](03_Images/Capa_PrimeCommerce%20BI.png)
 
@@ -27,7 +28,7 @@ O projeto contempla etapas de perfilamento, qualidade e tratamento dos dados, mo
 
 ---
 
-## 🎯 Problema de negócio e objetivos
+## Problema de negócio e objetivos
 
 A gestão da PrimeCommerce precisa acompanhar o desempenho comercial e compreender como o faturamento se distribui entre canais de venda, categorias de produtos, vendedores e clientes.
 
@@ -47,7 +48,7 @@ Desenvolver uma solução de BI que consolide indicadores comerciais e permita e
 
 ---
 
-## 📂 Dados utilizados
+## Dados utilizados
 
 | Característica | Descrição |
 |---|---|
@@ -72,7 +73,7 @@ As tabelas representam diferentes entidades do negócio e foram integradas para 
 
 ---
 
-## 📊 Dashboards desenvolvidos
+## Dashboards desenvolvidos
 
 O relatório foi organizado em três páginas analíticas, cada uma com uma perspectiva específica do negócio.
 
@@ -129,7 +130,7 @@ Análise do comportamento dos clientes, da recorrência de compras, da distribui
 
 ---
 
-## ⚙️ Metodologia analítica
+## Metodologia analítica
 
 O desenvolvimento foi conduzido seguindo um fluxo de trabalho de Business Intelligence.
 
@@ -197,7 +198,7 @@ As páginas foram estruturadas para facilitar:
 
 ---
 
-## 📈 Principais insights
+## Principais insights
 
 As análises comerciais documentadas no projeto identificaram os seguintes resultados:
 
@@ -212,113 +213,8 @@ A página Clientes e Canais complementa a análise com informações sobre recor
 
 ---
 
-## 💡 Conclusão e recomendações
+## Conclusão e recomendações
 
 O PrimeCommerce BI demonstra a aplicação de conceitos de Business Intelligence em um processo que contempla qualidade dos dados, transformação, modelagem, criação de indicadores e visualização analítica.
 
-Os resultados evidenciam diferenças de desempenho entre canais, categorias e períodos, permitindo identificar pontos de atenção e oportunidades de investigação.
-
-### Recomendações analíticas
-
-- Acompanhar a evolução do faturamento e do ticket médio por canal e período.
-- Investigar os fatores associados aos meses de menor faturamento.
-- Monitorar a recorrência de compras dos clientes.
-- Avaliar a concentração de receita nos principais compradores.
-- Comparar o desempenho dos canais para identificar oportunidades comerciais.
-- Utilizar indicadores comerciais como apoio ao planejamento e à tomada de decisões.
-
-As recomendações devem ser avaliadas em conjunto com o contexto operacional e comercial da empresa.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-| Tecnologia | Aplicação no projeto |
-|---|---|
-| Microsoft Power BI | Desenvolvimento dos dashboards e relatórios |
-| Power Query (M) | Perfilamento, limpeza e transformação dos dados |
-| DAX | Criação de medidas e indicadores |
-| Modelagem de Dados | Estruturação do modelo analítico |
-| CSV | Formato das bases de dados |
-
----
-
-## 📁 Estrutura do repositório
-
-```text
-PrimeCommerce_BI/
-│
-├── 01_Dados_Raw/
-│   ├── clientes.csv
-│   ├── produtos.csv
-│   ├── vendedores.csv
-│   ├── pedidos.csv
-│   ├── itens_pedido.csv
-│   ├── pagamentos.csv
-│   └── entregas.csv
-│
-├── 02_Power_BI/
-│   └── PrimeCommerce_BI.pbix
-│
-├── 03_Documentacao/
-│
-├── 04_Exportacoes/
-│
-├── 05_Images/
-│   ├── Capa_PrimeCommerce BI.png
-│   ├── dashboard_visao_geral.png
-│   ├── dashboard_analise_vendas.png
-│   └── dashboard_clientes_canais.png
-│
-└── README.md
-```
-
----
-
-## 🚀 Como reproduzir o projeto
-
-1. Clone ou baixe este repositório.
-2. Acesse a pasta `02_Power_BI`.
-3. Abra o arquivo `PrimeCommerce_BI.pbix` no Power BI Desktop.
-4. Verifique os caminhos das fontes de dados, caso necessário.
-5. Atualize os dados utilizando a opção **Atualizar** no Power BI.
-6. Navegue pelas três páginas do relatório.
-
-> **Observação:** os dados utilizados são simulados e destinados a fins de estudo, demonstração técnica e portfólio. A reprodução poderá exigir ajustes nos caminhos dos arquivos de origem.
-
----
-
-## 👨‍💻 Autor
-
-**Renato Leone**  
-Analista de Dados | Business Intelligence
-
-Projeto desenvolvido individualmente para demonstrar competências em análise de dados, qualidade de dados, transformação, modelagem, criação de indicadores e visualização de informações para apoio à tomada de decisões.
-
-### Competências demonstradas
-
-- Análise e interpretação de dados
-- Data Quality e tratamento de dados
-- Power Query (M)
-- Modelagem de dados
-- DAX e desenvolvimento de indicadores
-- Business Intelligence
-- Visualização e comunicação de insights
-
-### Portfólio e contato profissional
-
-- **GitHub:** [github.com/rrleone](https://github.com/rrleone)
-- **Projeto:** [PrimeCommerce BI](https://github.com/rrleone/PrimeCommerce_BI)
-- **Portfólio:** [renatoleone — Google Sites](https://sites.google.com/view/renatoleone/)
-
----
-
-<div align="center">
-
-**PrimeCommerce BI**
-
-*Dados • Análise • Insights • Decisões*
-
-Desenvolvido por **Renato Leone**
-
-</div>
+Os resultados evidenciam diferenças de desempenho entre canais,
