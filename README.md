@@ -1,8 +1,6 @@
-# PrimeCommerce BI
-
 <div align="center">
 
-<h2>PrimeCommerce BI</h2>
+<h1>PrimeCommerce BI</h1>
 
 <h3>Análise Comercial e Dashboard de Vendas</h3>
 
@@ -17,7 +15,6 @@ Transformando dados comerciais em indicadores, análises e insights para apoiar 
 </p>
 
 </div>
-
 ---
 
 ## Visão geral do projeto
@@ -227,10 +224,13 @@ Mais do que apresentar gráficos, o projeto busca evidenciar como uma estrutura 
 
 ## Autor
 
-**Renato Leone**  
-Analista de Dados | Business Intelligence
+<div align="center">
 
-Projeto desenvolvido para demonstrar competências em análise de dados, Power BI, Power Query, DAX, modelagem analítica e desenvolvimento de soluções de Business Intelligence.
+<strong>Renato Leone</strong>
 
-**Dados · Análise · Insights · Decisões**
+Analista de Dados | BI
+
+Dados · Análise · Insights · Decisões
+
+</div>
 
