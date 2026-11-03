@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<h1>PrimeCommerce BI</h1>
+<h2>PrimeCommerce BI</h2>
 
 <h3>Análise Comercial e Dashboard de Vendas</h3>
 
 <p>Projeto de Business Intelligence desenvolvido por Renato Leone</p>
 
 <p>
-<strong>Power BI | Power Query | DAX | Data Analytics | Business Intelligence</strong>
+<strong>POWER BI | POWER QUERY | DAX | DATA ANALYTICS | BUSINESS INTELLIGENCE</strong>
 </p>
 
 <p>
@@ -22,226 +22,168 @@ Transformando dados comerciais em indicadores, análises e insights para apoiar 
 
 ## Visão geral do projeto
 
+<img src="03_Images/Capa_PrimeCommerce%20BI.png" width="100%" alt="Capa do projeto PrimeCommerce BI">
+
 O **PrimeCommerce BI** é um projeto de Business Intelligence voltado à análise comercial de um e-commerce fictício de pequeno porte.
 
 O objetivo é transformar dados operacionais em informações gerenciais que permitam compreender o desempenho das vendas, acompanhar indicadores comerciais e identificar oportunidades de melhoria.
 
-O projeto contempla um fluxo de trabalho analítico que envolve perfilamento, avaliação da qualidade, tratamento e transformação dos dados, modelagem, desenvolvimento de indicadores e construção de dashboards interativos no Power BI.
+O projeto contempla um fluxo de trabalho analítico que envolve preparação, avaliação da qualidade, tratamento e transformação dos dados, modelagem, desenvolvimento de indicadores e construção de dashboards interativos no Power BI.
 
-A solução foi estruturada para demonstrar como dados organizados e analisados podem apoiar a compreensão do negócio e contribuir para a tomada de decisões.
+A solução foi estruturada para demonstrar como dados organizados e analisados podem apoiar a compreensão do negócio e contribuir para decisões comerciais mais fundamentadas.
+
+---
 
 ## Problema de negócio e objetivos
 
-A gestão da PrimeCommerce precisa acompanhar o desempenho comercial e compreender como o faturamento se distribui entre canais de venda, categorias de produtos, vendedores e clientes.
+A gestão da PrimeCommerce precisa acompanhar o desempenho comercial e compreender como o faturamento e as vendas se distribuem entre canais, categorias de produtos, vendedores e clientes.
 
-A análise isolada dessas informações dificulta a identificação de tendências, diferenças de desempenho e oportunidades comerciais.
+A análise isolada dessas informações dificulta a identificação de tendências, concentrações de resultados e oportunidades comerciais.
 
 O projeto busca responder questões como:
 
-- Qual é o faturamento total e como ele evolui ao longo do período?
-- Qual é o volume total de pedidos e itens vendidos?
-- Como o faturamento se distribui entre categorias de produtos?
-- Quais vendedores apresentam maior participação no faturamento?
-- Qual canal de venda apresenta maior faturamento?
-- Como o ticket médio varia entre os canais?
-- Como se comportam os indicadores comerciais ao longo dos meses?
-- Qual é o perfil de recorrência dos clientes?
-- Existe concentração do faturamento em determinados clientes?
+- Qual é o faturamento total e como ele evolui ao longo do tempo?
+- Como se comportam o volume de pedidos e os itens vendidos?
+- Quais categorias e produtos apresentam maior participação comercial?
+- Como se distribuem as vendas entre os vendedores?
+- Quais canais comerciais contribuem para os resultados?
 - Como os clientes se distribuem geograficamente?
+- Quais indicadores podem apoiar decisões comerciais e estratégicas?
 
-## Sobre os dados
+### Objetivos
 
-| Característica | Descrição |
+- Consolidar informações comerciais em uma estrutura analítica.
+- Preparar e transformar os dados para análise.
+- Desenvolver indicadores de desempenho comercial.
+- Criar visualizações que facilitem a interpretação dos resultados.
+- Permitir análises interativas por diferentes dimensões.
+- Identificar oportunidades de melhoria e apoiar decisões de negócio.
+
+---
+
+## Dados e preparação
+
+O projeto utiliza dados sintéticos desenvolvidos para simular uma operação comercial de e-commerce.
+
+Os dados são organizados para permitir análises relacionadas a vendas, pedidos, produtos, clientes, vendedores e canais comerciais.
+
+O processo de preparação contempla:
+
+- Inspeção e entendimento dos dados.
+- Avaliação da qualidade e consistência.
+- Tratamento e transformação das informações.
+- Organização das estruturas utilizadas no modelo analítico.
+- Preparação dos dados para construção dos indicadores.
+
+Por se tratar de um projeto de portfólio, os dados não representam uma empresa real.
+
+---
+
+## Metodologia
+
+O desenvolvimento foi organizado em etapas de um fluxo de trabalho de Business Intelligence.
+
+| Etapa | Atividade |
 |---|---|
-| Fonte | Dados sintéticos desenvolvidos para estudo e portfólio |
-| Segmento | E-commerce |
-| Período analisado | Janeiro a agosto de 2026 |
-| Volume informado | 1.492 pedidos |
-| Formato de origem | CSV |
-| Plataforma analítica | Microsoft Power BI |
+| 1 | Entendimento do contexto e dos objetivos de negócio |
+| 2 | Exploração e avaliação dos dados |
+| 3 | Preparação, tratamento e transformação |
+| 4 | Modelagem analítica |
+| 5 | Desenvolvimento de medidas e indicadores |
+| 6 | Construção das visualizações |
+| 7 | Validação dos resultados |
+| 8 | Interpretação dos indicadores e geração de insights |
 
-### Tabelas utilizadas
+A abordagem prioriza a consistência dos dados, a organização do modelo e a utilização dos indicadores como suporte à análise comercial.
 
-- `clientes`
-- `produtos`
-- `vendedores`
-- `pedidos`
-- `itens_pedido`
-- `pagamentos`
-- `entregas`
-
-Os dados representam uma operação fictícia e não correspondem a uma empresa real.
-
-## Ferramentas e tecnologias
-
-| Tecnologia | Aplicação no projeto |
-|---|---|
-| Microsoft Power BI Desktop | Desenvolvimento do dashboard e visualização analítica |
-| Power Query (M) | Perfilamento, preparação, limpeza e transformação dos dados |
-| DAX | Criação de medidas, indicadores e cálculos analíticos |
-| Modelagem de dados | Organização das entidades e relacionamentos |
-| CSV | Formato dos arquivos de origem |
-
-## Metodologia e etapas do projeto
-
-### 1. Perfilamento e qualidade dos dados
-
-A etapa inicial consistiu na avaliação da estrutura e da consistência dos dados.
-
-Foram verificadas:
-
-- Quantidade de registros por tabela
-- Tipos de dados
-- Valores nulos
-- Valores inválidos
-- Espaços extras em campos textuais
-- Unicidade das chaves
-- Integridade referencial
-- Consistência entre tabelas relacionadas
-
-Durante o perfilamento, foram identificadas ocorrências como:
-
-- Valores nulos em campos categóricos e de status
-- Quantidade de itens igual a zero
-- Preços unitários negativos
-- Datas de entrega inconsistentes
-- Espaços extras em campos textuais
-- Registros sem correspondência em algumas chaves de relacionamento
-
-### 2. Tratamento e preparação dos dados
-
-O tratamento foi realizado no Power Query, considerando as inconsistências identificadas durante o perfilamento.
-
-As ações incluíram:
-
-- Preenchimento controlado de valores nulos com `Não informado`
-- Correção de quantidades inválidas
-- Correção de preços unitários inválidos com referência ao cadastro de produtos
-- Correção de datas de entrega inconsistentes
-- Remoção de espaços extras em campos textuais
-- Criação de consultas de QA para validação de registros sem correspondência
-
-O processo buscou preservar a consistência das informações e preparar as tabelas para utilização no modelo analítico.
-
-### 3. Modelagem de dados
-
-Foi estruturado um modelo analítico para integrar as principais entidades do e-commerce.
-
-Os relacionamentos contemplam:
-
-- Clientes e pedidos
-- Vendedores e pedidos
-- Pedidos e itens do pedido
-- Produtos e itens do pedido
-- Pedidos e pagamentos
-- Pedidos e entregas
-
-A modelagem permite analisar os indicadores comerciais a partir de diferentes dimensões do negócio.
-
-### 4. Desenvolvimento de indicadores
-
-Foram desenvolvidas medidas em DAX para acompanhar os principais indicadores comerciais e financeiros.
-
-| Indicador | Objetivo |
-|---|---|
-| Faturamento Total | Acompanhar o valor total das vendas |
-| Pedidos Totais | Monitorar o volume de pedidos |
-| Quantidade de Itens | Avaliar o volume de itens comercializados |
-| Ticket Médio | Identificar o valor médio por pedido |
-| Faturamento Concluído | Acompanhar o faturamento associado aos pedidos concluídos |
-| Custo Total | Mensurar o custo dos itens comercializados |
-| Lucro Bruto | Avaliar a diferença entre faturamento e custos considerados |
-
-Também foi criada a coluna calculada `Custo_Total`, utilizada para calcular o custo dos itens a partir da quantidade e do custo unitário dos produtos.
-
-Os indicadores devem ser interpretados conforme as regras de negócio e os filtros aplicados no relatório.
+---
 
 ## Dashboard Power BI
 
-O dashboard foi desenvolvido em três páginas complementares.
+O dashboard foi estruturado em três páginas complementares, cada uma dedicada a uma perspectiva da operação comercial.
 
-### 01 — Visão Geral Comercial
+### 01 — Visão Geral
 
-A página executiva apresenta uma visão consolidada do desempenho comercial.
+<img src="03_Images/dashboard_visao_geral.png" width="100%" alt="Dashboard PrimeCommerce BI - Visão Geral">
 
-Principais indicadores e análises:
+A página apresenta uma visão executiva do desempenho comercial, reunindo os principais indicadores para acompanhamento da operação.
 
-- Faturamento Total
-- Pedidos Totais
-- Quantidade de Itens
-- Ticket Médio
-- Lucro Bruto
-- Faturamento por Categoria
-- Faturamento por Vendedor
-- Faturamento por Canal de Venda
+Permite acompanhar:
 
-![PrimeCommerce BI - Visão Geral Comercial](images/dashboard_visao_geral.png)
+- Faturamento total.
+- Quantidade de pedidos.
+- Itens vendidos.
+- Ticket médio.
+- Indicadores de desempenho comercial.
+- Distribuição e evolução dos resultados.
+
+A proposta é oferecer uma visão consolidada para facilitar o acompanhamento do negócio.
 
 ### 02 — Análise de Vendas
 
-A página explora a evolução temporal dos indicadores e permite comparar o desempenho dos canais de venda.
+<img src="03_Images/dashboard_analise_vendas.png" width="100%" alt="Dashboard PrimeCommerce BI - Análise de Vendas">
 
-Principais análises:
+A página aprofunda a análise do desempenho comercial, permitindo explorar os resultados sob diferentes dimensões.
 
-- Evolução do Faturamento Mensal
-- Evolução dos Pedidos Mensais
-- Evolução do Ticket Médio Mensal
-- Pedidos por Canal de Venda
-- Faturamento por Canal de Venda
-- Ticket Médio por Canal de Venda
+A análise contempla:
 
-![PrimeCommerce BI - Análise de Vendas](images/dashboard_analise_vendas.png)
+- Evolução do faturamento.
+- Desempenho por categoria.
+- Desempenho por vendedor.
+- Distribuição das vendas.
+- Comparação entre resultados comerciais.
+- Identificação de oportunidades de melhoria.
+
+O objetivo é compreender os fatores que contribuem para o desempenho das vendas.
 
 ### 03 — Clientes e Canais
 
-A página aprofunda a análise do comportamento dos clientes, da recorrência de compras e da distribuição geográfica.
+<img src="03_Images/dashboard_clientes_canais.png" width="100%" alt="Dashboard PrimeCommerce BI - Clientes e Canais">
 
-Principais análises:
+A página apresenta uma perspectiva relacionada aos clientes e aos canais de venda.
 
-- Clientes Únicos
-- Clientes Recorrentes
-- Faturamento por Cliente
-- Pedidos por Cliente
-- Faturamento por Estado e Cidade
-- Jornada de Recorrência dos Clientes
-- Desempenho dos Canais de Venda
-- Top 5 Clientes por Faturamento
-- Clientes Únicos por Cidade
-- Participação dos cinco principais clientes no faturamento
+Permite explorar:
 
-![PrimeCommerce BI - Clientes e Canais](images/dashboard_clientes_canais.png)
+- Distribuição geográfica dos clientes.
+- Participação dos canais comerciais.
+- Comportamento dos clientes.
+- Distribuição dos resultados por canal.
+- Informações que apoiam a compreensão do alcance comercial.
 
-## Principais insights comerciais
+A análise busca contribuir para decisões relacionadas à estratégia de canais e ao relacionamento com clientes.
 
-As análises realizadas no projeto identificaram os seguintes resultados:
+---
 
-- O **Site** apresenta o maior faturamento e o maior volume de pedidos entre os canais analisados.
-- **Escritório** é a categoria com maior faturamento.
-- **Março** apresenta o menor faturamento do período.
-- Em março, o volume de pedidos permanece elevado, mas o ticket médio é o menor do período, contribuindo para o menor faturamento mensal observado.
-- **Maio** apresenta o maior faturamento e o maior ticket médio mensal.
-- **Marketplace** apresenta o maior ticket médio entre os canais de venda.
+## Indicadores e análises
 
-A página Clientes e Canais complementa a análise com informações sobre recorrência, concentração do faturamento e distribuição geográfica.
+O projeto contempla indicadores e análises voltados ao acompanhamento do desempenho comercial.
 
-Os resultados representam o comportamento observado na base sintética utilizada no projeto e não devem ser generalizados para empresas reais.
+| Indicador / Análise | Objetivo |
+|---|---|
+| Faturamento total | Acompanhar o resultado financeiro das vendas |
+| Pedidos totais | Monitorar o volume de pedidos |
+| Itens vendidos | Avaliar o volume comercializado |
+| Ticket médio | Compreender o valor médio por pedido |
+| Faturamento por categoria | Comparar a participação das categorias |
+| Faturamento por vendedor | Avaliar o desempenho comercial |
+| Faturamento por canal | Analisar a contribuição dos canais |
+| Evolução temporal | Acompanhar o comportamento das vendas |
 
-## Conclusão e recomendações
+Os indicadores são utilizados em conjunto para proporcionar uma compreensão mais ampla do desempenho da operação.
 
-O PrimeCommerce BI demonstra a aplicação de conceitos de Business Intelligence em um fluxo de trabalho que integra qualidade de dados, preparação, modelagem, desenvolvimento de indicadores e visualização analítica.
+---
 
-A análise permite compreender diferenças de desempenho entre canais, categorias, vendedores e períodos, além de explorar aspectos do comportamento dos clientes.
+## Tecnologias e ferramentas
 
-Com base nos resultados observados, recomenda-se:
+| Tecnologia | Aplicação no projeto |
+|---|---|
+| Power BI | Desenvolvimento do dashboard e visualização dos indicadores |
+| Power Query | Preparação, transformação e tratamento dos dados |
+| DAX | Desenvolvimento de medidas e indicadores |
+| Data Analytics | Exploração, análise e interpretação dos dados |
+| Business Intelligence | Organização das informações para apoio à decisão |
 
-- Acompanhar a evolução do faturamento e do ticket médio por canal.
-- Investigar oportunidades de melhoria nos períodos de menor faturamento.
-- Monitorar a recorrência de compras dos clientes.
-- Avaliar a concentração de receita nos principais compradores.
-- Comparar o desempenho comercial entre categorias e vendedores.
-- Utilizar indicadores integrados para apoiar o planejamento comercial.
-
-As recomendações devem ser avaliadas em conjunto com o contexto operacional e comercial da empresa.
+---
 
 ## Estrutura do repositório
 
@@ -249,18 +191,11 @@ As recomendações devem ser avaliadas em conjunto com o contexto operacional e 
 PrimeCommerce_BI/
 │
 ├── 01_Dados_Raw/
-│   ├── clientes.csv
-│   ├── produtos.csv
-│   ├── vendedores.csv
-│   ├── pedidos.csv
-│   ├── itens_pedido.csv
-│   ├── pagamentos.csv
-│   └── entregas.csv
 │
 ├── 02_Power_BI/
-│   └── PrimeCommerce_BI.pbix
 │
-├── images/
+├── 03_Images/
+│   ├── Capa_PrimeCommerce BI.png
 │   ├── dashboard_visao_geral.png
 │   ├── dashboard_analise_vendas.png
 │   └── dashboard_clientes_canais.png
@@ -268,49 +203,34 @@ PrimeCommerce_BI/
 └── README.md
 ```
 
-## Como reproduzir o projeto
+A estrutura apresentada representa os principais diretórios identificados no projeto.
 
-1. Clone ou baixe o repositório.
-2. Abra a pasta `02_Power_BI`.
-3. Abra o arquivo `PrimeCommerce_BI.pbix` no Power BI Desktop.
-4. Verifique os caminhos das fontes de dados, caso necessário.
-5. Utilize a opção **Atualizar** para atualizar os dados.
-6. Navegue pelas páginas do relatório.
+---
 
-A reprodução poderá exigir ajustes nos caminhos dos arquivos CSV de origem.
+## Resultados e aprendizados
+
+O desenvolvimento do PrimeCommerce BI permitiu aplicar conceitos de preparação de dados, modelagem analítica, desenvolvimento de indicadores e visualização de informações comerciais.
+
+O projeto demonstra a importância de estruturar os dados antes da construção dos dashboards e de desenvolver indicadores alinhados às necessidades do negócio.
+
+A utilização de diferentes perspectivas analíticas permite transformar informações operacionais em uma visão mais clara do desempenho comercial.
+
+---
+
+## Considerações finais
+
+O PrimeCommerce BI demonstra a aplicação de conceitos de Business Intelligence em um cenário de e-commerce, integrando preparação de dados, modelagem, indicadores e visualização.
+
+Mais do que apresentar gráficos, o projeto busca evidenciar como uma estrutura analítica organizada pode contribuir para compreender resultados, identificar oportunidades e apoiar decisões estratégicas.
+
+---
 
 ## Autor
 
 **Renato Leone**  
 Analista de Dados | Business Intelligence
 
-Projeto desenvolvido individualmente para demonstrar competências em análise de dados, qualidade de dados, transformação, modelagem analítica, DAX, Power BI e interpretação de indicadores de negócio.
+Projeto desenvolvido para demonstrar competências em análise de dados, Power BI, Power Query, DAX, modelagem analítica e desenvolvimento de soluções de Business Intelligence.
 
-### Competências demonstradas
+**Dados · Análise · Insights · Decisões**
 
-- Análise e interpretação de dados
-- Data Quality
-- Preparação e transformação de dados
-- Power Query (M)
-- Modelagem de dados
-- DAX
-- Business Intelligence
-- Desenvolvimento de dashboards
-- Visualização e comunicação de insights
-
-### Portfólio e contato profissional
-
-- **GitHub:** [github.com/rrleone](https://github.com/rrleone)
-- **LinkedIn:** [Perfil profissional](https://www.linkedin.com/)
-
----
-
-<div align="center">
-
-**RENATO LEONE**
-
-ANALISTA DE DADOS | BI
-
-Dados · Análise · Insights · Decisões
-
-</div>
